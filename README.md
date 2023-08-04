@@ -6,7 +6,6 @@
 - Tab Button Sections
 - built-in Settings Tab
 - And More To Come
-<br/>
 
 ### Initializing The Library (Coming Very Soon)
 ```lua
@@ -43,6 +42,8 @@ Library:CreateWindow({
     }
 })
 ```
+<br/>
+
 # Window Elements
 ## Creating a Tab
 ```lua
