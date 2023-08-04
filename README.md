@@ -6,8 +6,7 @@
 - Tab Button Sections
 - built-in Settings Tab
 - And More To Come
-
-  
+<br/>
 
 ## ⚡ Initialize Library (Coming Very Soon)
 ```lua
