@@ -1,5 +1,4 @@
 [![landingpod](moonrocklogo_D.png)](https://discord.gg/rXbGpfuKmV)
-<img src="freedomlogo.png#gh-dark-mode-only" alt="landingpod">
 
 ## ⭐ Features Like No Other
 - Custom Option Loading
