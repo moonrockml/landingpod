@@ -1,6 +1,6 @@
 [![landingpod](MoonRockLogo_D.png)](https://discord.gg/rXbGpfuKmV)
 
-## FreedomUI ⭐ Features Like No Other
+## ⭐ Features Like No Other
 - Custom Option Loading
 - Unique Design, Mixed with csgo and a modern style ui
 - Tab Button Sections
