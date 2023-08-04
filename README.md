@@ -50,8 +50,6 @@ Library:CreateWindow({
 # Window Elements
 Tabs / SectionTabs
 
-<br/>
-
 ## Creating a Tab
 ```lua
 local tab1 = Library:CreateTab("reee")
