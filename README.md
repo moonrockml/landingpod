@@ -8,7 +8,7 @@
 - And More To Come
 <br/>
 
-## ⚡ Initialize Library (Coming Very Soon)
+## ⚡ Initializing The Library (Coming Very Soon)
 ```lua
 local Library = loadstring(game:HttpGet("comingsoon.lua"))()
 ```
