@@ -13,7 +13,7 @@
 local Library = loadstring(game:HttpGet("comingsoon.lua"))()
 ```
 
-### Loading Popup --optional
+### Loading Popup (optional)
 ```lua
 Library.load.CreateLoader({
     Title = "MoonRock",
