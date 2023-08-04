@@ -48,7 +48,10 @@ Library:CreateWindow({
 <br/>
 
 # Window Elements
-Tab/SectionTabs
+Tabs / SectionTabs
+
+<br/>
+
 ## Creating a Tab
 ```lua
 local tab1 = Library:CreateTab("reee")
@@ -61,3 +64,6 @@ sectiontab.CreateSectionTab("SectionButton")
 sectiontab.CreateSectionTab("SectionButton")
 sectiontab.CreateSectionTab("SectionButton")
 ```
+<br/>
+
+# Tab Elements
