@@ -47,7 +47,7 @@ Library:CreateWindow({
 ```
 <br/>
 
-# Window Elements ᭼
+# Window Elements ᜵
 Tabs / SectionTabs
 
 ## Creating a Tab
@@ -68,7 +68,7 @@ local GroupBox = Tab:CreateGroupBox({Title = "Donuts",Side = "Left"})
 ```
 <br/>
 
-# Tab Elements ᭼
+# Tab Elements ᜵
 ## Creating a button
 ```lua
 GroupBox:CreateButton({
