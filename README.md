@@ -1,4 +1,4 @@
-[![landingpod](moonrocklogo_D.png)](https://discord.gg/rXbGpfuKmV)
+[![landingpod](MoonRockLogo_D.png)](https://discord.gg/rXbGpfuKmV)
 
 ## FreedomUI ⭐ Features Like No Other
 - Custom Option Loading
