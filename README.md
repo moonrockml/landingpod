@@ -7,7 +7,8 @@
 - built-in Settings Tab
 - And More To Come
 <br/>
-### Initializing The Library (Coming Very Soon)
+
+#### Initializing The Library (Coming Very Soon)
 ```lua
 local Library = loadstring(game:HttpGet("comingsoon.lua"))()
 ```
