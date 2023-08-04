@@ -9,7 +9,6 @@
   
 <br/>
 
-<br/>
 
 ### Initializing The Library (Coming Very Soon)
 ```lua
@@ -49,6 +48,7 @@ Library:CreateWindow({
 <br/>
 
 # Window Elements
+Tab/SectionTabs
 ## Creating a Tab
 ```lua
 local tab1 = Library:CreateTab("reee")
