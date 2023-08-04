@@ -28,3 +28,31 @@ Library.load.CreateLoader({
     }
 })
 ```
+
+### Creating Window
+```lua
+Library:CreateWindow({
+    Title = "MoonRock │ https://discord.gg/rXbGpfuKmV │ Be Cool",
+    Discord = {
+        Invite = "rXbGpfuKmV" -- only invite code is needed
+    },
+    ConfigSaving = {
+        Enabled = true,
+        FolderTitle = "MoonRockConfigs",
+        FileTitle = "MyConfigFile"
+    }
+})
+```
+# Window Elements
+## Creating a Tab
+```lua
+local tab1 = Library:CreateTab("reee")
+```
+## Creating a SectionTab
+```lua
+local sectiontab = Library:CreateTabSection("Section1")
+sectiontab.CreateSectionTab("SectionButton")
+sectiontab.CreateSectionTab("SectionButton")
+sectiontab.CreateSectionTab("SectionButton")
+sectiontab.CreateSectionTab("SectionButton")
+```
