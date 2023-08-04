@@ -1,4 +1,4 @@
-[![landingpod](MoonRockLogo_D.png)](https://discord.gg/rXbGpfuKmV)
+[![landingpod](ImageAssets/MoonRockLogo_D.png)](https://discord.gg/rXbGpfuKmV)
 
 ## ⭐ Features Like No Other
 - Custom Option Loading
