@@ -1,3 +1,6 @@
+  [![Discord](https://discord.com/api/guilds/807273906872123412/widget.png)](https://discord.gg/eYudMwgYtY)
+
+
 [![landingpod](ImageAssets/MoonRockLogo_D.png)](https://discord.gg/rXbGpfuKmV)
 
 ## Features Like No Other
