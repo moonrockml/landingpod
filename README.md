@@ -1,4 +1,4 @@
-  [![Discord](https://discord.com/api/guilds/807273906872123412/widget.png)](https://discord.gg/eYudMwgYtY)
+  [![Discord](https://discord.com/api/guilds/807273906872123412/widget.png)](https://discord.gg/rXbGpfuKmV)
 
 
 [![landingpod](ImageAssets/MoonRockLogo_D.png)](https://discord.gg/rXbGpfuKmV)
