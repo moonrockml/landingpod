@@ -1,5 +1,5 @@
-[![Discord Server](https://discord.com/api/guilds/1133892104507097159/widget.png)](https://discord.gg/rXbGpfuKmV)
-[![Landing Pod](ImageAssets/MoonRockLogo_D.png)](https://discord.gg/rXbGpfuKmV)
+![Landing Pod](ImageAssets/MoonRockLogo_D.png)](https://discord.gg/rXbGpfuKmV)
+![Discord Server](https://discord.com/api/guilds/1133892104507097159/widget.png)](https://discord.gg/rXbGpfuKmV)
 
 ## Exclusive to Moonrock 🌕
 - Customizable loading screen
@@ -57,7 +57,7 @@ ExampleSection.CreateSectionTab("Settings")
 local GroupBox = Tab:CreateGroupBox({Title = "Moonrock", Side = "Left"})
 ```
 
-### Creating a button
+### Creating a Button
 ```lua
 GroupBox:CreateButton({
     Title = "Hello, world!",
