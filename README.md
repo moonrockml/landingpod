@@ -1,5 +1,5 @@
-![Landing Pod](ImageAssets/MoonRockLogo_D.png)](https://discord.gg/rXbGpfuKmV)
-![Discord Server](https://discord.com/api/guilds/1133892104507097159/widget.png)](https://discord.gg/rXbGpfuKmV)
+![Landing Pod](ImageAssets/MoonRockLogo_D.png)
+![Discord Server](https://discord.com/api/guilds/1133892104507097159/widget.png)
 
 ## Exclusive to Moonrock 🌕
 - Customizable loading screen
