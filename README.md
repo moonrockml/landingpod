@@ -2,12 +2,11 @@
 [![Landing Pod](ImageAssets/MoonRockLogo_D.png)](https://discord.gg/rXbGpfuKmV)
 
 ## Exclusive to Moonrock 🌕
-- Custom Optional Loading popup
-- Unique Design, Mixed with csgo and a modern styled ui
-- Tab Button Sections
-- built-in Settings Tab
-- And More To Come
-<br/>
+- Customizable loading screen
+- Unique design, mixed with CS:GO and modern UI
+- Tab sections, with buttons!
+- Built-in Settings tab
+- More in the future!
 
 ### Starting Moonrock
 ```lua
@@ -39,7 +38,6 @@ Library:CreateWindow({
     }
 })
 ```
-<br/>
 
 # Window Elements 
 ### Creating a Tab
@@ -58,7 +56,6 @@ ExampleSection.CreateSectionTab("Settings")
 ```lua
 local GroupBox = Tab:CreateGroupBox({Title = "Moonrock", Side = "Left"})
 ```
-<br/>
 
 ### Creating a button
 ```lua
@@ -127,3 +124,6 @@ GroupBox:CreateColorPicker({
 	end
 })
 ```
+
+## Credits
+The original documentation was made by moonrockml, but it was edited by consulum.
