@@ -42,11 +42,11 @@ Library:CreateWindow({
 <br/>
 
 # Window Elements 
-## Creating a Tab
+### Creating a Tab
 ```lua
 local ExampleTab = Library:CreateTab("Moonrock")
 ```
-## Creating a Section
+### Creating a Section
 ```lua
 local ExampleSection = Library:CreateTabSection("Aimbot")
 ExampleSection.CreateSectionTab("Visuals")
@@ -54,13 +54,13 @@ ExampleSection.CreateSectionTab("Trolling")
 ExampleSection.CreateSectionTab("Misc")
 ExampleSection.CreateSectionTab("Settings")
 ```
-## Creating Group Box (required)
+### Creating Group Box (required)
 ```lua
 local GroupBox = Tab:CreateGroupBox({Title = "Moonrock", Side = "Left"})
 ```
 <br/>
 
-## Creating a button
+### Creating a button
 ```lua
 GroupBox:CreateButton({
     Title = "Hello, world!",
@@ -70,7 +70,7 @@ GroupBox:CreateButton({
 })
 ```
 
-## Creating a Toggle
+### Creating a Toggle
 ```lua
 GroupBox:CreateToggle({
 	Title = "I am a toggle!",
@@ -80,7 +80,7 @@ GroupBox:CreateToggle({
 })
 ```
 
-## Creating a Keybind
+### Creating a Keybind
 ```lua
 GroupBox:CreateKeybind({
 	Title = "Keybind",
@@ -91,7 +91,7 @@ GroupBox:CreateKeybind({
 })
 ```
 
-## Creating a Slider
+### Creating a Slider
 ```lua
 GroupBox:CreateSlider({
 	Title = "WalkSpeed",
@@ -105,7 +105,7 @@ GroupBox:CreateSlider({
 })
 ```
 
-## Creating a Dropdown
+### Creating a Dropdown
 ```lua
 GroupBox:CreateDropdown({
 	Title = "Example Dropdown",
@@ -117,7 +117,7 @@ GroupBox:CreateDropdown({
 })
 ```
 
-## Creating a Color Picker
+### Creating a Color Picker
 ```lua
 GroupBox:CreateColorPicker({
 	Name = "Pick me! I'm a color!",
